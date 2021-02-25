@@ -61,3 +61,9 @@ html,body{
 .wrapper span:last-child{
   filter: blur(20px);
 }
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
