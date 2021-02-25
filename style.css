@@ -61,8 +61,4 @@ html,body{
 .wrapper span:last-child{
   filter: blur(20px);
 }
-footer {
-  margin-top: 5%;
-  color: white;
-  text-align: center;
-}
+
